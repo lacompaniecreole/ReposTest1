@@ -15,7 +15,7 @@ public class Menuisier extends Personne {
 //toString
 	@Override
 	public String toString() {
-		return "Menuisier [id=" + id + ", nom88888=" + nom + "]";
+		return "Menuisier [id=" + id + ", nom111=" + nom + "]";
 	}	
 	
 }
