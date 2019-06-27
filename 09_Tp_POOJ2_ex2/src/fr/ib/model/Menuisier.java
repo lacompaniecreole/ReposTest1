@@ -2,7 +2,7 @@ package fr.ib.model;
 
 public class Menuisier extends Personne {
 	
-	
+	// JE TENTE CE COMMENTAIRE SAUVAGE 
 	//constructeur
 	public Menuisier() {
 		super();
