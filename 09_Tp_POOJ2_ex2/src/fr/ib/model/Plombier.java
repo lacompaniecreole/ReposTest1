@@ -2,6 +2,9 @@ package fr.ib.model;
 
 public class Plombier extends Personne {
 
+	///COMMENTAIRE EN PLUS
+	
+	
 	//constructeur
 	public Plombier() {
 		super();
