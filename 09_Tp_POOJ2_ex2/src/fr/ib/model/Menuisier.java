@@ -2,7 +2,7 @@ package fr.ib.model;
 
 public class Menuisier extends Personne {
 	
-	
+	// JE TENTE CE COMMENTAIRE SAUVAGE 
 	//constructeur
 	public Menuisier() {
 		super();
@@ -15,7 +15,7 @@ public class Menuisier extends Personne {
 //toString
 	@Override
 	public String toString() {
-		return "Menuisier [id=" + id + ", nom=" + nom + "]";
+		return "Menuisier [id=" + id + ", nom888888888=" + nom + "]";
 	}	
 	
 }
